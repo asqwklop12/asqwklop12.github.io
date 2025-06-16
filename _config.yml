@@ -9,19 +9,19 @@ lang: ko
 
 # 타임존 설정
 # 웹사이트의 시간대를 설정합니다.
-timezone:
+timezone: Asia/Seoul
 
 # SEO 설정
 # ↓ --------------------------
 title: happy dev land # 웹사이트의 주요 제목
 
-tagline: A text-focused Jekyll theme # 서브타이틀로 표시됩니다
+tagline: 즐겁게 개발한것을 기록합니다. # 서브타이틀로 표시됩니다
 description: >- # SEO 메타와 원자 피드에 사용됩니다
   상세하게 기록하고 작성합니다.
 
 # 웹사이트의 프로토콜과 호스트명을 입력하세요.
 # 예: 'https://username.github.io', 끝에 '/'가 없어야 합니다.
-url: ""
+url: "https://asqwklop12.github.io"
 
 github:
   username: asqwklop12 # GitHub 사용자명을 변경하세요
@@ -29,7 +29,7 @@ github:
 social:
   # 이름을 변경하세요.
   # 포스트의 기본 작성자와 푸터의 저작권 소유자로 표시됩니다.
-  name: 박용훈
+  name: asqwklop12
   email: asqwklop12@naver.com # 이메일 주소를 변경하세요
   links:
     # 첫 번째 요소는 저작권 소유자의 링크로 사용됩니다
