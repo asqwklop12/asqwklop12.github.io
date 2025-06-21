@@ -4,6 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+📧 [이메일 주소](mailto:asqwklop12@naver.com)｜ 🔗 [GitHub 프로필 링크](https://github.com/asqwklop12)｜ 💼 [LinkedIn 프로필 링크](https://linkedin.com/in/yonghun-park-8ab593160)
+
+
 ## 자기소개
 
 Java/Spring Boot 기반 클라우드 관리 플랫폼을 MSA로 전환하여 유지보수성과 확장성을 강화한 백엔드 개발자입니다.
@@ -47,14 +50,14 @@ Java, Spring Boot, MySQL, Redis Stream, EC2, RDS, Jenkins
 
 ## 사이드 프로젝트
 
-- **모임 관리 시스템 (2025.04 ~ 2025.05)**
+- **모임 관리 시스템 (2025.04 ~ 2025.05)**  🔗 [GitHub](https://github.com/sparta-MOIM/MOIM-Server)｜ 📰 [브로셔](https://rough-appliance-207.notion.site/12-MOIM-2014f2102e618040bf9de72a346701af?source=copy_link)｜ 📑 [Notion](https://rough-appliance-207.notion.site/12-2014f2102e6180e79596fd96cb541172?source=copy_link)
     - 5인 프로젝트, 부 팀장으로 활동
     - 팀 배포 프로세스 단순화를 위해 Jenkins 기반 빌드·배포 파이프라인을 직접 구축
     - Redis Stream 기반 MQ 도입으로 세션 대기큐 병목 제거 및 비동기 처리 안정성 확보
     - Outbox 패턴 적용으로 분산 트랜잭션 환경에서 이벤트 발행 실패 방지 및 데이터 정합성 유지
     - 예외 상황 대비를 위해 롤백 시나리오 설계 및 테스트 케이스 작성으로 운영 단계 신뢰성 확보
     
-- **물류 관리 시스템 (2025.03 ~ 2025.04)**
+- **물류 관리 시스템 (2025.03 ~ 2025.04)**  🔗 [GitHub](https://github.com/Sparta-Rooibos/rooibos)｜ 📑 [Notion](https://rough-appliance-207.notion.site/24-Rooibos-2064f2102e6180028d2dce405e2828bd?source=copy_link)｜ 📑 [Notion](https://rough-appliance-207.notion.site/24-Rooibos-2064f2102e6180028d2dce405e2828bd?source=copy_link)
     - 4인 프로젝트, 테크리더로 활동
     - 재고 API 동시성 테스트 및 병목 분석으로 예상 데드락 38건을 사전 제거하여 안정성 확보
     - 팀원 간 PR 리뷰 체계 수립으로 코드 품질과 설계 일관성 유지
@@ -72,11 +75,12 @@ Java, Spring Boot, MySQL, Redis Stream, EC2, RDS, Jenkins
 
 ## 대외 활동
 
-- 대규모 시스템 설계 기초 스터디 (2025.06~ 진행중) - 스터디원: 6명
+- **대규모 시스템 설계 기초 스터디 (2025.06~ 진행중)**  🔗 [GitHub](https://github.com/grow-together-study/system-design-interview)
+    - 스터디원: 6명
 - **스프링캠프 2025 참가 (2025.06)**
-- 개인 블로그 운영
-    - [dev land](https://asqwklop12.github.io/) (2025.06 ~ 진행중)
-    - [b-programmer](https://b-programmer.tistory.com/) (2025.02 ~ 진행중)
+- **개인 블로그 운영 (2025.06 ~ 진행중)**
+    - [dev land](https://asqwklop12.github.io/)
+    - [b-programmer](https://b-programmer.tistory.com/)
 
 ## 자격증
 
