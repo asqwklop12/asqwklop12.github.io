@@ -57,7 +57,7 @@ Java, Spring Boot, MySQL, Redis Stream, EC2, RDS, Jenkins
     - Outbox 패턴 적용으로 분산 트랜잭션 환경에서 이벤트 발행 실패 방지 및 데이터 정합성 유지
     - 예외 상황 대비를 위해 롤백 시나리오 설계 및 테스트 케이스 작성으로 운영 단계 신뢰성 확보
     
-- **물류 관리 시스템 (2025.03 ~ 2025.04)**  🔗 [GitHub](https://github.com/Sparta-Rooibos/rooibos)｜ 📑 [Notion](https://rough-appliance-207.notion.site/24-Rooibos-2064f2102e6180028d2dce405e2828bd?source=copy_link)｜ 📑 [Notion](https://rough-appliance-207.notion.site/24-Rooibos-2064f2102e6180028d2dce405e2828bd?source=copy_link)
+- **물류 관리 시스템 (2025.03 ~ 2025.04)**  🔗 [GitHub](https://github.com/Sparta-Rooibos/rooibos)｜ 📑 [Notion](https://rough-appliance-207.notion.site/24-Rooibos-2064f2102e6180028d2dce405e2828bd?source=copy_link)
     - 4인 프로젝트, 테크리더로 활동
     - 재고 API 동시성 테스트 및 병목 분석으로 예상 데드락 38건을 사전 제거하여 안정성 확보
     - 팀원 간 PR 리뷰 체계 수립으로 코드 품질과 설계 일관성 유지
