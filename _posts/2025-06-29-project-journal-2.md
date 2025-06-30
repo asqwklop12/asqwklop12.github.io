@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[프로젝트 일지 #2] 프로젝트 1차 배포"
-date: 2025-06-26 01:49:54 +0900
+date: 2025-06-29 21:40:54 +0900
 categories: 
   - Project
   - 배포
