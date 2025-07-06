@@ -4,7 +4,7 @@ title: "[JVM] 힙 메모리(Heap Memory)에 대한 이해"
 date: 2025-07-05 14:50:00 +0900
 categories: 
   - java
-  - 힙메모리
+  - JVM
 tags:
   - java
   - JVM
