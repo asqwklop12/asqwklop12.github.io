@@ -84,8 +84,6 @@ survivor에는 두 개의 영역으로 나뉘어지는데 survivor 0 과 survivo
 swap을 거치면서 age가 증가를 하고 일정 수치가 되면 이 객체는 old generation으로 이동이 된다.
 물론 복사할때마다 기존에 있던 객체들은 사용을 할 수 가 없다.
 이것도 even이랑 마찬가지로 환경이 달라지는것이기때문에 일반적인 이동은 불가능하다.
-따지고보면 모든곳이 jvm은 몇개의 환경을 세팅해서 쓰는지 전혀 모르겠다.
-
 
 지금까지 young generation에 대해 알아보았다.
 이제 old generation에 대해 알아보자.
